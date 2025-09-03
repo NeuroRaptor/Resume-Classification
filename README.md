@@ -1,7 +1,7 @@
-# Resume Categorization System
+# Resume Classification
 
 ## 📌 Overview
-The **Resume Categorization System** is a machine learning project that automates the classification of resumes, reducing manual effort, increasing accuracy, and enabling faster handling of large volumes of applications.  
+The **Resume Classification** is a machine learning project that automates the classification of resumes, reducing manual effort, increasing accuracy, and enabling faster handling of large volumes of applications.  
 The system uses models such as **Decision Tree**, **Random Forest**, **Support Vector Machine (SVM)**, and **XGBoost** to achieve high accuracy in categorizing resumes with minimal human intervention.
 
 ## 👥 Authors
@@ -56,7 +56,7 @@ Group: DSC-C-07
 **Final Model: XGBoost**  
 
 ## 💡 Discussion
-- Automated resume categorization reduces HR workload.  
+- Automated resume classification reduces HR workload.  
 - Improves efficiency in candidate shortlisting.  
 - Ensemble methods (like XGBoost) outperform traditional models in accuracy and generalization.  
 
@@ -70,6 +70,6 @@ Group: DSC-C-07
 - Integrate into an **HR management system (HRMS)** for real-time deployment.  
 
 ## 🏁 Conclusion
-The Resume Categorization System demonstrates how **machine learning and automation** can streamline HR processes, improve classification accuracy, and reduce manual intervention, ultimately making recruitment more efficient.  
+The Resume Classification System demonstrates how **machine learning and automation** can streamline HR processes, improve classification accuracy, and reduce manual intervention, ultimately making recruitment more efficient.  
 
 ---
